@@ -2,8 +2,8 @@
 title: "[译]用 Go 语言编写一个微服务博客 — 第三部分 — 嵌入数据库并提供 JSON 服务"
 date: 2017-03-14T11:20:15+08:00
 lastmod: 2017-03-14T11:20:15+08:00
-keywords: []
-description: ""
+keywords: [微服务, 微服务博客, Go 语言微服务博客, 嵌入数据库, 提供 JSON 服务]
+description: "介绍了如何嵌入数据库并提供 JSON 服务。"
 categories: [Golang]
 
 ---

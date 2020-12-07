@@ -2,8 +2,8 @@
 title: "[译]用 Go 语言编写一个微服务博客 — 第四部分 — 使用 GoConvey 进行单元测试和模拟"
 date: 2017-03-21T01:10:25+08:00
 lastmod: 2017-03-21T01:10:25+08:00
-keywords: []
-description: ""
+keywords: [微服务, 微服务博客, Go 语言微服务博客, GoConvey, 单元测试和模拟]
+description: "介绍了如何使用 GoConvey 进行单元测试和模拟。"
 categories: [Golang]
 
 ---

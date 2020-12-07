@@ -2,8 +2,8 @@
 title: "[译]用 Go 语言编写一个微服务博客 — 第五部分 — 在 Docker Swarm 上进行部署"
 date: 2017-03-28T21:12:17+08:00
 lastmod: 2017-03-28T21:12:17+08:00
-keywords: []
-description: ""
+keywords: [微服务, 微服务博客, Go 语言微服务博客, Docker Swarm 部署, 部署微服务博客]
+description: "介绍了如何在 Docker Swarm 上进行部署微服务博客。"
 categories: [Golang]
 
 ---
